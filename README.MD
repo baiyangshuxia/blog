@@ -16,16 +16,7 @@
  [效果](https://xugaoyi.com/)  |
  [本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)
 
-<br/>
-<p align="center" style="color: #999;">
-  赞助商
-</p>
-<p align="center">
-<!-- <a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/blog-gitalk-comment@master/img/Apifox-860x320.ic7tz1417sw.png" alt="赞助商" style="width: 400px;border-radius: 2px;"></a> -->
-<a href="http://apifox.cn/a103xugaoyi" target="_blank"><img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/blog-gitalk-comment@master/img/441669861566_.2bedplbm21hc.jpg" alt="赞助商" style="width: 400px;border-radius: 2px;"></a>
-</p>
-
-<p align="center" style="color: #999; font-size:13px;">（进入赞助商扫码注册可为本项目作者充电~）</p>
+<
 
 ## 介绍
 1. 这个主题的初衷是打造一个好用的、面向程序员的`知识管理工具`
@@ -65,23 +56,7 @@ npm run dev # or yarn dev
 
 届时，VuePress 1.x 编译慢的缺点将得到极大的改善。我将会视情况把主题升级至 VuePress v2.0 或 VitePress，也可能两个都升级。目前(2020.10.29)来看还需要一段时间才能让大家使用上基于它们的新版本，还希望大家多多 [:sparkling_heart:支持](https://doc.xugaoyi.com/pages/1b12ed/) 哟，持续关注吧~ -->
 
-## :sparkling_heart:支持这个项目
 
-如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下*任意* 方式支持我：
-
-1. *Star* 并 分享这个项目 :rocket:
-2. 保留主题 footer(页脚) 的主题链接 :D
-3. 关注公众号`yqyjs666`，回复`前端资源`，可获取 [前端学习资源](https://github.com/xugaoyi/blog-gitalk-comment/wiki/Front-end-Study)
-<!-- 4. 轻轻点击一次页面广告 ✨ -->
-4. 通过以下二维码 一次性捐款。 我多半会买一杯 ~~咖啡~~ 茶。:tea:
-
-谢谢！ :heart:
-
-| 微信赞赏 | 微信 | 支付宝 |
-| :---: | :---: | :---: |
-| <img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200523131533.jpg" alt="赞赏码" width=150> | <img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200410113708.jpg" alt="Wechat QRcode" width=150>| <img src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200410113707.jpg" alt="Alipay QRcode" width=150> |
-
-二维码没有正常显示？点 [这里😎](https://doc.xugaoyi.com/pages/1b12ed/)
 
 ## 致谢
 :heart:感谢支持这个项目的朋友
